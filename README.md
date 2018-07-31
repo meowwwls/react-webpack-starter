@@ -27,6 +27,12 @@ Change directories to the new cloned repository
 
 `cd react-webpack-starter`
 
+## Installing Dependencies 
+
+To install all dependencies, run:
+
+`npm install`
+
 ## Developing
 
 ### Running in Development Mode
